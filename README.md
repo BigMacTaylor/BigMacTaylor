@@ -5,8 +5,8 @@
 - 😄 Here's a little bit about me:
 - ♒ I'm an Aquarius
 - 🐚 I like long walks on the beach
-- 🧑‍🤝‍🧑 My pronouns are "My Queen" and "Your Majesty"
-- 👑 And I’m currently learning nim.
+- 👑 I’m currently learning nim.
+- 🧑‍🤝‍🧑 And my pronouns are "My Queen" and "Your Majesty"
 - 💻 I'm not very good with computers, and I Hate.. linux
 - ⚠️ Use anything in this repo at your own risk! 
 
